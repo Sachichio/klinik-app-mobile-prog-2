@@ -1,3 +1,12 @@
+# Flutter Version
+Flutter 3.32.0
+
+# Instruction
+1. Download Project
+2. After download project, write "flutter clean" and "flutter pub get" in terminal
+3. After that, write "flutter run" in terminal to running the project
+4. That's it
+
 # klinik_app
 
 A new Flutter project.
