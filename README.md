@@ -1,5 +1,5 @@
 # Flutter Version
-Flutter 3.32.0
+Flutter 3.32.0 or newer version
 
 # Instruction
 1. Download Project
