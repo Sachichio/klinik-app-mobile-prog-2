@@ -4,8 +4,9 @@ Flutter 3.32.0 or newer version
 # Instruction
 1. Download Project
 2. After download project, write "flutter clean" and "flutter pub get" in terminal
-3. After that, write "flutter run" in terminal to running the project
-4. That's it
+4. After that, write "flutter run" in terminal to running the project
+5. If project still cannot running, you can update flutter version "flutter upgrade" in terminal to get newer version
+6. Repeat instruction number 4, and that's it
 
 # klinik_app
 
